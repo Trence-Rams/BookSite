@@ -1,3 +1,3 @@
 # BookSite
 
-This is a basic Book store UserInteface without API. It uses links to link to different book genres.
+This is a basic Book store UserInteface without API. It uses links to link to different book genres from an external website.
